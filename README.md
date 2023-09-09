@@ -1,7 +1,7 @@
 # data-science-boot-camp-8
 My portfolio for data analyst role 
 
-## What did i learn this from bootcamp
+## What did i learn from this bootcamp
 
 I learn a lot of stuff related to data science skills.
 - Intro to data science
