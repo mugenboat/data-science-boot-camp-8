@@ -16,3 +16,4 @@ I learn a lot of stuff related to data science skills.
 - Essential Python for Data Analyst
 - Dashboard
 
+you can follow me on LinkedIn https://www.linkedin.com/in/thanate-janyaswasdi/
